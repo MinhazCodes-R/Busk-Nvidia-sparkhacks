@@ -19,6 +19,7 @@ This is the project vault for **Buskr**, built at the [[Hackathon-Logistics|NVID
 
 ### 🗂️ Planning
 - [[Open-Decisions]] — strategic calls still to make
+- [[Assigning-Tasks]] — how the 3 devs split the work
 - [[Hackathon-Logistics]] — event details, timing, status
 
 ---
