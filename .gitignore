@@ -1,8 +1,9 @@
 # Obsidian workspace / cache (keep settings, ignore per-machine state)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-.trash/
+# Patterns are depth-agnostic so they match the nested vault (obsidian-notes/.obsidian/...)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.trash/
 
 # macOS
 .DS_Store
